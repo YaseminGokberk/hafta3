@@ -1,0 +1,47 @@
+h1{
+	color:blue;
+}
+
+body {
+	
+}
+
+.container{
+
+	width:800px;
+	height:auto;
+	background: orange;
+	margin-left: 75px;
+}
+.header {
+	width: 800px;
+	height: 50px;
+	background: gray;
+	margin-left: 75px;
+}
+
+.menu-bar{
+width: :1200px;
+height: 70px;
+background: yellow;
+margin-left: 75px;
+}
+
+.side-bar{
+	width: 300px;
+	height: 1000px;
+	background-color:pink;
+	float: left;
+	margin-right: 75px;
+	margin-left: 75px;
+}
+.main-content{
+width: 900px;
+height: 1000px;
+float: right;
+background-color: red;
+margin-left: 75px;
+}
+.footer{
+
+}
